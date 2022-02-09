@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          HELLO MY OLD FRIEND
+          HELLO MY OLD FRIEND now bye
         </a>
       </header>
     </div>
